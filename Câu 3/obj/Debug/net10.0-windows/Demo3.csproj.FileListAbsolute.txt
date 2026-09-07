@@ -1,0 +1,16 @@
+D:\Demo3\bin\Debug\net10.0-windows\Demo3.exe
+D:\Demo3\bin\Debug\net10.0-windows\Demo3.deps.json
+D:\Demo3\bin\Debug\net10.0-windows\Demo3.runtimeconfig.json
+D:\Demo3\bin\Debug\net10.0-windows\Demo3.dll
+D:\Demo3\bin\Debug\net10.0-windows\Demo3.pdb
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.Form1.resources
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.csproj.GenerateResource.cache
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.AssemblyInfoInputs.cache
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.AssemblyInfo.cs
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.csproj.CoreCompileInputs.cache
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.dll
+D:\Demo3\obj\Debug\net10.0-windows\refint\Demo3.dll
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.pdb
+D:\Demo3\obj\Debug\net10.0-windows\Demo3.genruntimeconfig.cache
+D:\Demo3\obj\Debug\net10.0-windows\ref\Demo3.dll
