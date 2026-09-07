@@ -14,3 +14,19 @@ D:\Demo5\obj\Debug\net10.0-windows\refint\Demo5.dll
 D:\Demo5\obj\Debug\net10.0-windows\Demo5.pdb
 D:\Demo5\obj\Debug\net10.0-windows\Demo5.genruntimeconfig.cache
 D:\Demo5\obj\Debug\net10.0-windows\ref\Demo5.dll
+D:\Câu 14\bin\Debug\net10.0-windows\Demo5.exe
+D:\Câu 14\bin\Debug\net10.0-windows\Demo5.deps.json
+D:\Câu 14\bin\Debug\net10.0-windows\Demo5.runtimeconfig.json
+D:\Câu 14\bin\Debug\net10.0-windows\Demo5.dll
+D:\Câu 14\bin\Debug\net10.0-windows\Demo5.pdb
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.Form1.resources
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.csproj.GenerateResource.cache
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.AssemblyInfoInputs.cache
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.AssemblyInfo.cs
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.csproj.CoreCompileInputs.cache
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.dll
+D:\Câu 14\obj\Debug\net10.0-windows\refint\Demo5.dll
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.pdb
+D:\Câu 14\obj\Debug\net10.0-windows\Demo5.genruntimeconfig.cache
+D:\Câu 14\obj\Debug\net10.0-windows\ref\Demo5.dll
