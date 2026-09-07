@@ -1,0 +1,34 @@
+D:\Demo1\bin\Debug\net10.0-windows\Demo1.exe
+D:\Demo1\bin\Debug\net10.0-windows\Demo1.deps.json
+D:\Demo1\bin\Debug\net10.0-windows\Demo1.runtimeconfig.json
+D:\Demo1\bin\Debug\net10.0-windows\Demo1.dll
+D:\Demo1\bin\Debug\net10.0-windows\Demo1.pdb
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.Form1.resources
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.Properties.Resources.resources
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.csproj.GenerateResource.cache
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.AssemblyInfoInputs.cache
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.AssemblyInfo.cs
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.csproj.CoreCompileInputs.cache
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.dll
+D:\Demo1\obj\Debug\net10.0-windows\refint\Demo1.dll
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.pdb
+D:\Demo1\obj\Debug\net10.0-windows\Demo1.genruntimeconfig.cache
+D:\Demo1\obj\Debug\net10.0-windows\ref\Demo1.dll
+D:\Câu 1\bin\Debug\net10.0-windows\Demo1.exe
+D:\Câu 1\bin\Debug\net10.0-windows\Demo1.deps.json
+D:\Câu 1\bin\Debug\net10.0-windows\Demo1.runtimeconfig.json
+D:\Câu 1\bin\Debug\net10.0-windows\Demo1.dll
+D:\Câu 1\bin\Debug\net10.0-windows\Demo1.pdb
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.Form1.resources
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.Properties.Resources.resources
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.csproj.GenerateResource.cache
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.AssemblyInfoInputs.cache
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.AssemblyInfo.cs
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.csproj.CoreCompileInputs.cache
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.dll
+D:\Câu 1\obj\Debug\net10.0-windows\refint\Demo1.dll
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.pdb
+D:\Câu 1\obj\Debug\net10.0-windows\Demo1.genruntimeconfig.cache
+D:\Câu 1\obj\Debug\net10.0-windows\ref\Demo1.dll
